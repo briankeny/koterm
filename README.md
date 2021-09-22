@@ -1,7 +1,5 @@
 <h2>Koterm</h2>
-Koterm is a light weigtht  fast  subdomain finder and host scanning tool written in python programming language.
-
-It provides information for website using OSINT.
+Koterm is a very fast subdomain enumarator and host scanning tool written in python.
 
 May be of use for Recon and bug bounty hunting in general.
 
@@ -38,7 +36,7 @@ It is a bit shotter
 <h3>Requirements</h3>
 Koterm requires Python versions  3.x.x and above
 
-The modules required are the requests module and argparse module.
+Koterm depends on the following modules  requests module , argparse and colorama (coloring windows) .
 To install the required modules simply run the following command.
 
 ```
@@ -88,10 +86,12 @@ You can run the koterm script with ./ only if the script has execute permission.
 > ./koterm.py -t 198.12.12.1 -p 22 -c off -v dis
 
 <h3>Thank You !</h3>
-I hope koterm will be of great use and help to you .
+I will work in day in day out to improve  koterm. If you wish to contribute Iam honored to receive your help.
 
-Open for suggestions ,contributions and improvements.
+The koterm project for it to be a success I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
 
-If you liked it don't forget to star.
+You will find more interesting projects from our website . 
+
+Thank you for taking your time to read about koterm. Iam happy it means so much to me .
 
 Goodbye !
