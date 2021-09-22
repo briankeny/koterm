@@ -1,5 +1,5 @@
 <h2>Koterm</h2>
-Koterm is a very fast subdomain enumerator and host scanning tool written in python.
+Koterm is a very fast subdomain enumerator and host scanning tool I wrote in python .
 
 May be of great help for Recon in  bug bounty hunting or for how you intend to use .
 
