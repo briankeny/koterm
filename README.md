@@ -1,5 +1,9 @@
 <h2>Koterm</h2>
-Koterm is a very fast subdomain enumerator and host scanning tool I wrote in python .
+Koterm is a fast subdomain enumerator and host scanning tool I wrote in python .
+
+koterm in action 
+
+![koterm](kotroot/kot.jpg)
 
 May be of great help for Recon in  bug bounty hunting or for how you intend to use .
 
@@ -88,9 +92,8 @@ You can run the koterm script with ./ only if the script has execute permission.
 I will work in day in day out to improve  koterm. If you wish to contribute Iam honored to receive your help.
 
 The koterm project for it to be a success I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
-
-You will find better and  more interesting projects from our website . 
-
+You will find better and  more interesting projects from our website . Orion[orion](http://code.orionkenya.ml)
 Thank you for taking your time to read about koterm. Iam happy it means so much to me .
 
 Goodbye !
+
