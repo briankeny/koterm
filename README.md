@@ -1,7 +1,7 @@
 <h2>Koterm</h2>
-Koterm is a very fast subdomain enumarator and host scanning tool written in python.
+Koterm is a very fast subdomain enumerator and host scanning tool written in python.
 
-May be of use for Recon and bug bounty hunting in general.
+May be of great help for Recon in  bug bounty hunting or for how you intend to use .
 
 <h3>Installation</h3>
 Clone from koterm github repo
@@ -17,19 +17,18 @@ chmod +x koterm.py
 ```
 
 Now we wont need to include the name python when running the script.
-we will simply use <i><br><b>
+we will simply use <i><br>
 
 ```
 ./koterm.py { do something}
 ```
 
-</i></b> instead of <i><b>
+ instead of
 
 ```
 python koterm.py { do something}
 ```
 
-</i></b>
 
 It is a bit shotter
 
@@ -90,7 +89,7 @@ I will work in day in day out to improve  koterm. If you wish to contribute Iam 
 
 The koterm project for it to be a success I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
 
-You will find more interesting projects from our website . 
+You will find better and  more interesting projects from our website . 
 
 Thank you for taking your time to read about koterm. Iam happy it means so much to me .
 
