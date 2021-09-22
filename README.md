@@ -17,7 +17,7 @@ chmod +x koterm.py
 ```
 
 Now we wont need to include the name python when running the script.
-we will simply use <i><br>
+we will simply use <br>
 
 ```
 ./koterm.py { do something}
