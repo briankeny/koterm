@@ -33,9 +33,9 @@ python koterm.py { do something}
 It is a bit shotter
 
 <h3>Requirements</h3>
-Koterm requires Python versions  3.x.x and above
+Koterm requires Python versions  3.x.x and above.
 
-Koterm depends on the following modules  requests module , argparse and colorama (coloring windows) .
+It depends on the following modules : requests module , argparse and colorama (coloring windows) not in standard library .
 To install the required modules simply run the following command.
 
 ```
@@ -78,7 +78,7 @@ You can run the koterm script with ./ only if the script has execute permission.
 
 > ./koterm.py -d yahoo.com -c "off"
 
-> ./koterm.py -t www.example.com -p 1,2,3
+> ./koterm.py -t example.com -p 1,2,3
 
 > ./koterm.py -t 10.10.10.1 -pr 10,1024
 
