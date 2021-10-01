@@ -88,13 +88,14 @@ You can run the koterm script with ./ only if the script has execute permission.
 > ./koterm.py -t 198.12.12.1 -p 22 -c off -v dis
 
 <h3>Thank You !</h3>
-I will work in day in day out to improve  koterm. If you wish to contribute Iam honored to receive your help.
 
-The koterm project for it to be a success I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
+Open for contributions.
+
+I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
 
 Check out more interesting projects from our website . [orion](http://code.orionkenya.ml)
 
-Thank you for taking your time to read about koterm. 
+Thank you for visiting this page.
 
-Goodbye !
+
 
