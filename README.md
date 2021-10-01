@@ -3,7 +3,6 @@ Koterm is a fast subdomain enumerator and host scanning tool I wrote in python .
 
 It is designed for websites which use OSINT. May be of great use in bug bounty programs.
 
-<b> koterm in action</b>
 ![koterm](kotroot/kot.jpg)
 
 <h3>Installation</h3>
