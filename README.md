@@ -88,6 +88,17 @@ You can run the koterm script with ./ only if the script has execute permission.
 
 <h3>Thank You !</h3>
 
+#Docker
+
+```
+cd koterm
+```
+```
+docker build -t koterm .
+```
+```
+docker run koterm <command>
+```
 Open for contributions.
 
 I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
