@@ -101,11 +101,5 @@ docker run koterm <command>
 ```
 Open for contributions.
 
-I give credit to my friends from Orion group. Mike , Ian and Collins.  Thank you guys for the support .
-
-Check out more interesting projects from our website . [orion](http://code.orionkenya.ml)
-
-Thank you for visiting this page.
-
 
 
