@@ -9,7 +9,7 @@ It is designed for websites which use OSINT. May be of great use in bug bounty p
 Clone from koterm github repo
 
 ```
-git clone https://github.com/Brian254ke/koterm.git
+git clone https://github.com/briankeny/koterm.git
 ```
 
 <b>Optional (Linux or Unix like terminal emulators):</b> Navigate to the directory where you have cloned the koterm repo then add execute permission to the koterm.py script
